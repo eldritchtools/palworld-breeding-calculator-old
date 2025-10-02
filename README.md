@@ -1,4 +1,4 @@
-# Palworld Breeding Calculator P;d
+# Palworld Breeding Calculator Old
 
 Breeding calculator web tool for the game Palworld. This is the version maintained for migration purposes.
 
